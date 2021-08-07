@@ -1,5 +1,4 @@
 module.exports = {
-    mongo: 'mongodb://localhost/m-lombard',
     pg: {
         user: 'postgres',
         host: '127.0.0.1',
